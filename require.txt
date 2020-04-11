@@ -1,0 +1,3 @@
+pyharfbuzz == 0.2.2
+PySDL2 == 0.9.7
+pycairo == 1.19.1
